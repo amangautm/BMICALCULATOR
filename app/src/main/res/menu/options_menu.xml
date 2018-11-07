@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/chart"
+        android:title="@string/chart"
+        android:icon="@drawable/bmi"
+        />
+    <item
+        android:id="@+id/desc"
+        android:title="@string/sug"
+        />
+    <item
+        android:id="@+id/bio"
+        android:title="@string/abt"/>
+
+</menu>

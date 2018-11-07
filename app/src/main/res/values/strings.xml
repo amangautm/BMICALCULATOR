@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">CALCI</string>
+    <string name="height">Enter Your Height</string>
+    <string name="weight">Enter Your Weight</string>
+    <string name="feets">Feets</string>
+    <string name="cm">CentiMeters</string>
+    <string name="kg">kgs</string>
+    <string name="lb">lbs</string>
+    <string name="bmi">Calculate</string>
+    <string name="sug">SUGGESTIONS</string>
+    <string name="abt">ABOUTs</string>
+    <string name="chart">BMI Chart</string>
+    <string name="name">NAME : AMAN GAUTAM</string>
+    <string name="age">AGE  :  19 YEARS</string>
+    <string name="degree">B.Tech : C.S.E</string>
+    <string name="query">FOR APP DEVELOPMENT</string>
+    <string name="mob">CONTACT AT : 9472807610</string>
+    <string name="sugText">                       Body Mass Index and Healthy Tips
+
+Your child will have his/her Body Mass Index measured at every annual physical at the doctor’s office and by public schools at grades one, four, seven and 10 as mandated by a new Massachusetts state law.
+
+What is BMI?
+
+Body Mass Index (BMI) is a measure of your child’s body weight based on his/her height. It is used to estimate body fat. Your child’s age is then used to determine what BMI percentile range your child falls into on a growth chart.
+
+Your child’s measurements:  Height: ______   Weight: ______  BMI Percentile: ______
+
+[  ]  Underweight: less than the 5th percentile
+[  ]  Healthy weight: 5th percentile to less than the 85th percentile
+[  ]  Overweight: 85th to less than the 95th percentile
+[  ]  Obese: 95th percentile or greater
+
+If your child’s BMI is below the 5th percentile, he/she may be underweight. If your child’s BMI is above the 85th percentile, he/she may be overweight or obese. BMI may not tell the whole story about your child’s weight status. Many factors other than height and weight can influence your child’s weight. Also, BMI does not distinguish between muscle and fat. For example, if a child is very athletic and has a lot of muscle, his/her BMI may be high even though he/she is not overweight. More information is available at the Department of Public Health website(http://www.mass.gov/massinmotion/).
+
+Healthy Changes
+
+Whatever your child’s BMI, all families can make simple changes to eat healthy and be more active. As parents, it is important to set a good example and make healthy changes fun. As a family, decide what changes you will make together to be healthier. Small changes can make a very big difference. Here are some suggestions:
+
+Drink more water and cut out sugar-sweetened drinks
+A 12-ounce can of regular soda contains 10 teaspoons of sugar and 150 calories! Soda, juice and other sweetened beverages are a big source of hidden calories – just keep them out of the house. Even 100% juice has a lot of sugar and calories and should be limited to no more than four ounces a day. Water is best. Try flavoring it with fresh squeezed orange, lemon or lime. Drinking water at meals and between meals can help control hunger levels.
+
+Limit screen time
+Reduce your screen time (TV, computer, video games) to less than two hours a day total. This will help to prevent weight gain caused by not moving your body enough.
+
+Take ANY opportunity to move!
+Make a goal every day to move more. Think of taking the stairs with your children instead of the escalator. Maybe the post office or the pharmacy is close enough to walk to if you plan a little extra time. If your school is close by plan to walk one or both ways with your children.
+
+Start your day with a healthy breakfast
+Skipping breakfast has an unhealthy effect on body weight – your child is more likely to eat more throughout the rest of the day to “catch up.”
+
+Quick healthy ideas include:
+
+Whole grain waffles or toast with berries
+Whole grain cereal with low fat milk
+Yogurt and fruit
+Leftover rice with apples, nuts and cinnamon
+Think outside the box-- even leftovers can be used for breakfast! A glass of lowfat milk is a quick option. Keep the sugary foods like donuts, Pop Tarts and sugary cereal out of the house!
+
+Make a point of eating at least five fruits and vegetables a day
+Remember fresh, frozen, dried and even canned fruits and vegetables count! Try to include a fruit or vegetable at meals and snacks. Keep a fruit bowl on the table and you can bet everyone will eat more.
+Visit the website www.eatright.org for more information on healthy eating and cooking for the family.
+
+Family meals are best
+With regular family meals, kids are more likely to: 1) eat fruits, vegetables and grains, 2) try new foods and 3) do better in school. Be sure to always turn the TV off during meals and snack time.
+
+Be a smart snacker
+Snacks are a great way to keep your energy up and can help you keep a healthy weight. Stop eating processed food out of a bag, box or container! Try these natural healthy after school snacks:
+
+1 apple with 1 tablespoon of peanut butter
+1 cup of low fat yogurt with ½ cup of berries
+1 cup of chopped vegetables with 2 tablespoons of hummus or light dressing
+6 Triscuit crackers with 1 oz of low fat cheddar cheese
+Fruit smoothie
+Get moving!
+Do your best to exercise everyday for 30-60 minutes. Whatever you choose, make sure it includes activity that makes you breathe harder and increases your heart rate. Good examples include fast-walking, running, basketball, swimming, biking or soccer. Family walks before or after dinner are a great way to spend time together while burning energy!
+
+
+
+
+</string>
+    <string name="infoH">1 Foot = 30.48 cm</string>
+    <string name="infoW">1 kg = 2.20 lbs</string>
+
+</resources>
